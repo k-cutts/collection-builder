@@ -12,7 +12,7 @@ url: https://k-cutts.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /si676_collection-builder
 # location of code, the full url to your github repository
-source-code: https://github.com/k-cutts/si676_collection-builder
+source-code: https://github.com/k-cutts/collection-builder
 
 ##########
 # SITE SETTINGS
