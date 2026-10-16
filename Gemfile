@@ -3,8 +3,7 @@
 source 'https://rubygems.org'
 
 # needed for Jekyll
-# gem "jekyll", "~> 4.4.1"
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll"
 gem 'webrick'
 gem 'logger'
 gem 'base64'
